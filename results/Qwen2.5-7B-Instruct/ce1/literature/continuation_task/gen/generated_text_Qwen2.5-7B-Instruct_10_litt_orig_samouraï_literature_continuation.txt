@@ -1,0 +1,14 @@
+ ___
+Suite : « Un grand samouraï nommé Tokugawa Ieyasu réussit à remporter ces conflits et devint le shogun le plus puissant du Japon. Il décida alors de mettre fin aux guerres entre les shoguns et de pacifier le pays. Pour cela, il créa la ville de Edo, maintenant connue sous le nom de Tokyo. Les shoguns et leurs gardes se mirent à vivre dans cette nouvelle cité. 
+
+L'un de ces shoguns, Tokugawa Yoshimune, prit beaucoup de mesures pour rendre le Japon plus prospère. Il encouragea l'agriculture et l'éducation, et fit construire de nombreux canaux pour irriguer les terres. Les villes commençaient à s'animer et de nouvelles industries se développaient. 
+
+Un autre shogun important, Tokugawa Tsunayoshi, aimait particulièrement les chiens et créa une loi qui protégeait les animaux de compagnie. Il a aussi fait construire de magnifiques temples et jardins pour offrir aux habitants de Tokyo des lieux de détente. 
+
+Au fil des années, le Japon connaissait des avancées technologiques et scientifiques, mais restait très fermé aux influences extérieures, ce qui allait changer avec l'arrivée de nouveaux shoguns à la tête du pays. »
+___
+```markdown
+Extrait : Il y a bien longtemps, dans le Japon d'autrefois, plusieurs empereurs appelés shoguns se partageaient la totalité du pays. Ces derniers se livraient batailles pour un oui et pour un non.
+Suite :
+Tokugawa Ieyasu, un grand samouraï, réussit à gagner ces batailles. Il devint le shogun le plus fort et décida de calmer le pays. Il construisit une grande ville appelée Edo, qui est maintenant connue sous le nom de Tokyo. Les shoguns et leurs gardes commencèrent à vivre là-bas.
+```

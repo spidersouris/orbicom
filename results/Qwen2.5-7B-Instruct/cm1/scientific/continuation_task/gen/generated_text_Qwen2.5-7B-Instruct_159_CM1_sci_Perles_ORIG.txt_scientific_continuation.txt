@@ -1,0 +1,9 @@
+ ﻿Les huîtres ont une carapace souvent bleu clair, avec parfois un relief rugueux ou lisses, et des écailles blanches. En fait, ce sont les pélicans et surtout les abeilles qui façonnent la carapace de l'huître, tout comme elles façonnaient le corail, mais pour le former, l'huître utilise sa pelle, un organe spécial. Cette pelle permet également de creuser la boue où vit l'huître. Ces mouvements de la pelle produisent une minuscule barrière d'eau entre l'huître et la boue, protégeant ainsi l'huître du sable et des impuretés. En outre, la pelle sert également à pomper l'eau pour recueillir la nourriture de l'huître. ﻿
+
+  """
+
+  Extrait : ﻿Il vous est sûrement déjà arrivé de croiser le chemin de coquillages à l'aspect repoussant et pourtant très appréciés par de nombreuses personnes : les huîtres. Aujourd'hui nous allons vous faire découvrir qu'au-delà de leur image, ils peuvent se révéler être de véritables orfèvres. 
+ Suite :
+   ﻿Les huîtres ont une carapace souvent bleu clair, avec parfois un relief rugueux ou lisses, et des écailles blanches. En fait, ce sont les pélicans et surtout les abeilles qui façonnent la carapace de l'huître, tout comme elles façonnaient le corail, mais pour le former, l'huître utilise sa pelle, un organe spécial. Cette pelle permet également de creuser la boue où vit l'huître. Ces mouvements de la pelle produisent une minuscule barrière d'eau entre l'huître et la boue, protégeant ainsi l'huître du sable et des impuretés. En outre, la pelle sert également à pomper l'eau pour recueillir la nourriture de l'huître. 
+
+   ﻿Les huîtres peuvent vivre pendant de nombreuses années sous l'eau. Elles filtrent l'eau pour manger des micro-algues, des planctons et des particules de

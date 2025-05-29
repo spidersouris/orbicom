@@ -1,0 +1,31 @@
+ <example>
+ 
+   Texte : Le hibou hulule est un hibou assez facile à distinguer. Il a une corne à l'arrière de son crâne qui fait ressembler son cou à un canon. Il a une forte probabilité de trouver un hibou hulule dans un massif forestier. 
+ 
+ 
+   </example>
+ 
+ <example>
+ 
+ Texte : Une mouette mélanocéphale est un oiseau migrateur. 
+Les mouettes mélanocéphales migrent du sud de la Russie à l'Amérique du Sud. 
+Une mouette mélanocéphale est une mouette de mer très rapide, elle est capable de voler de 40 à 50 km/hour. 
+Les mouettes mélanocéphales se distinguent des autres mouettes par la présence de deux marques blanches sur son dos. 
+ 
+ 
+   </example>
+ 
+ 
+ <example>
+ 
+ Texte : Un petit dauphin est un petit mammifère qui vit dans l'eau. 
+Il se nourrit de petits poissons et de petits crustacés, il est très rapide. 
+Le petit dauphin peut rester à la surface de l'eau pendant environ 5 minutes sans se noyer. 
+Le petit dauphin peut se retrouver dans un environnement pollué, mais il est toujours capable de survivre. 
+Le petit dauphin est très intelligent. 
+Le petit dauphin est très protecteur de sa mère. 
+ 
+   </example>
+
+ 
+

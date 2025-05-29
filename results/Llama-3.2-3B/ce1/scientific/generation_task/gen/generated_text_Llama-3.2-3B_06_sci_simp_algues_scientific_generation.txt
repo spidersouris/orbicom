@@ -1,0 +1,42 @@
+ ____
+
+   Voici un exemple de récolte d'algues. A l'aide de la chaine alimentaire, nous voyons comment ces petits animaux peuvent être utiles pour la vie en mer.
+
+  ____
+
+  <example>
+
+   Texte : La mer est l'habitat de nombreux animaux qui se nourrissent en mangeant les algues. On a trouvé une petite ancre de mer qui se nourrissait de l'algue.
+
+   Voici un texte similaire en termes de contenu et de longueur.
+
+  ____
+
+  Texte : Les algues marines, de la plus petite aux plus grandes, sont un élément essentiel dans les chaînes alimentaires de la mer, et sont une ressource importante pour les animaux marin.
+ 
+L'algue est l'organisme primaire de la chaîne alimentaire marine. Il est un organisme unicellulaire. 
+L'algue a besoin d'un environnement très spécial. Elle vit dans l'eau ou sur la terre.
+Une fois que l'algue commence à pousser dans l'eau, elle en met une partie sur le fond. 
+Les algues sont vitales pour le bon fonctionnement des écosystèmes marins. 
+Elles produisent le gaz oxygène qui est nécessaire pour la vie.
+Les algues sont des végétaux qui se nourrissent de l'eau et de l'azote. 
+Certaines espèces d'algues peuvent même produire leur propre nutrition. 
+Il existe un grand nombre d'espèces différentes d'algues. 
+L'algue est une source de nourriture très importante pour beaucoup d'oiseaux et d'animaux marins.
+Les algues sont vivantes. Elles ont une structure cellulaire complexe, comme les plantes terrestres.
+Les animaux vivent de l'algue ou de ses parties. 
+
+</example>
+
+__
+
+
+__Voici un texte similaire en termes de contenu et de longueur.
+
+  ____
+
+  Texte : Les animaux se nourrissent d'algues.
+
+  La chaine alimentaire se termine par les poissons qui mangent les algues. 
+  L'algue est très importante pour la vie marine.
+  Les algues donnent de la nourriture aux poissons, aux oise

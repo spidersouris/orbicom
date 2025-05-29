@@ -1,0 +1,21 @@
+ <example>
+   
+     Voici un exemple de texte de 150 mots en français. Écris un texte similaire en termes de contenu et de longueur.
+
+    Veille à ce que le texte généré soit simple et compréhensible pour les enfants de niveau CE1.
+
+    Génère uniquement le texte et rien d'autre.
+
+    <example>
+
+      Texte : La belle histoire du Roi Dagobert et de la Reine Béatrix. 
+      
+      Ce jour-là, le Roi et la Reine s'entendaient sur une chose. Et il est vrai qu'ils étaient toujours aussi en bons termes. Mais un jour, la Reine Béatrix est tombée malade. La maladie fit penser au Roi Dagobert que la Reine ne reviendrait pas. Le Roi fit donc apporter des objets pour le mari. Il demanda même des livres pour lire. Mais quand il était en pleine lecture, il entendait les sons de la Reine. La Reine Béatrix avait repris des forces. Ainsi, le Roi est très heureux que la Reine revienne.
+
+    </example>
+
+    <example>
+
+      Texte : À ce jour, une grande partie de l'Afrique est touchée par un horrible désastre. En quelques jours, plus de 100 000 personnes sont mortes et plus de 50 millions de personnes sont affectées. C'est un malheur que l'on appelle la sécheresse. Les pluies ne tombent pas. On dit que les paysans sont obligés d'aller à la pêche en mer pour trouver un peu de nourriture. En effet, la terre est devenue un désert. Les agriculteurs se tournent vers d'autres moyens pour trouver de la nourriture. 
+
+      On a vu beaucoup de femmes et d'enfants mourir de faim. La nourriture est un problème majeur pour les paysans. D'autre part, les arbres sèchent. Ainsi, les arbres sont devenus de minces troncs. La pluie n'arrive pas. De plus, les animaux meurent de faim. Par exemple, les chevaux, les vaches, les chèvres et les dromadaires sont morts. Mais surtout les

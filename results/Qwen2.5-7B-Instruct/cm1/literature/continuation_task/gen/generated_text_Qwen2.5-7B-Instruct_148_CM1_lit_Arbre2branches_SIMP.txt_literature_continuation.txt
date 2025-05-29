@@ -1,0 +1,15 @@
+ ```plaintext
+   En réalité, c’était un arbre de laitier, aussi appelé “village tree” car il avait de nombreuses racines étendues qui formaient un toit naturel sous lequel les villageois pouvaient se réfugier à l’abri du soleil brûlant et de la pluie. Ces racines permettaient également de stocker l’eau pendant la saison sèche.
+
+   Les enfants du village adoraient jouer sous ce grand arbre. Ils construaient des châteaux en carton et se battaient gentiment en imaginant qu’ils étaient des guerriers. Ils parlaient des histoires de magie et de fantômes, et certains disaient même avoir vu des esprits jouer sous l’arbre, mais personne ne croyait vraiment à leurs histoires. Chaque matin, la mère de Vimal, un petit garçon de neuf ans, le déposait à l’ombre de cet arbre pour aller à l’école, et le soir, elle venait le chercher après l’avoir récupéré auprès des autres enfants. 
+
+   Cet arbre était vraiment un lieu magique pour tout le monde. Il y avait même une tradition selon laquelle si quelqu’un faisait un vœu et le tenait fermement contre le tronc de l’arbre, son vœu serait exaucé. Les gens venaient de loin pour faire des vœux et espéraient avec foi que leur souhait deviendrait réalité. Certains disaient que les fantômes assistaient eux aussi aux promesses faites sous l’ombre de l’arbre.
+   ```
+  
+
+  ___
+
+  Extrait : Un matin, alors que Vimal et ses camarades de classe jouaient sous l’arbre, ils entendirent un bruit étrange venant de l’intérieur du grand tronc. 
+  Suite :
+    ```plaintext
+    Intrigués, les enfants s’approchèrent du tronc pour mieux écouter. Le son se répétait régulièrement et semblait venir de l’autre côté de l’arbre, là où la crotte de taureau avait été fixée par leurs copains. Curieux, ils décidèrent de creuser un peu autour de l’

@@ -1,0 +1,9 @@
+ <example>
+  
+    Texte : Le village était vaste et joli. Sur les deux rues principales s'étendaient les magasins. La rue de droite était en partie couverte d'un imposant tilleul, ce qui lui donnait un aspect particulier.
+    A la droite de la rue s'étendait une vaste cour, qui renfermait plusieurs étages de magasins. La plus haute appartenance à un vendeur de légumes, les autres appartenant à un vendeur d'épices et d'huiles, à un vendeur de peaux de lapin, et à un autre vendeur de fruits.
+    A droite du premier étage, se trouvait une cuisine ouverte sur la rue. Dans cette cuisine, un homme de haute taille et de belle taille, à l'air résolu et fier, était assis à une longue table couverte d'une nappe propre.
+    C'était un grand homme qui ne s'occupait que de s'occuper de son pain. Il regardait un homme au visage émacié et aux mains affaissées, qui se tenait debout devant la table, faisant des gestes désespérés en indiquant des tranches de pain qu'il faisait surgir d'un grand panier. L'homme au visage émacié était couvert d'une vieille veste en lambeaux.
+    C'était le père. Il essayait d'obtenir de lui ce qu'il croyait être un peu de pain. C'était son seul pain de la journée, et il lui était indispensable. Mais il ne lui donnait pas ce qu'il voulait.
+    De la table à la porte, on voyait un garçon de dix-sept ans. C'était son fils. Il était debout, et ses mains étaient aussi émaciées que celles de son père. Il était grand et malin. Lorsque le père, en s'accablant de reproches, voulait tirer le garçon hors de la table et le pousser sur le banc, il s'en débarrassait d'un revers de la main. Il était plus fort que lui.
+    Tandis que le garçon parlait et parlait à sa mère, et que le père continuait à lui

@@ -1,0 +1,5 @@
+ <example>
+   
+     Texte : C'est le 9 juin 2014. On peut constater que les temps se sont figés depuis quelques jours et l'on est donc encore en plein mois de mai. Qu'est-ce qui peut expliquer cette situation? Il semble que cela soit la cause d'une météo extrêmement chaude, un record s'être établi ces derniers temps, de plus, une température record d'environ 35 degrés centigrades a été enregistrée dans certains points du continent nord-américain. Si nous allons sur les réseaux sociaux, nous constatons que la population est inquiète. L'agence météo s'est même fait une joie de pronostiquer des chutes de pluie dans plusieurs régions du globe. Le phénomène aurait d'ailleurs déjà eu lieu à Cuba, où une tempête de sable a eu lieu.
+   </example>
+

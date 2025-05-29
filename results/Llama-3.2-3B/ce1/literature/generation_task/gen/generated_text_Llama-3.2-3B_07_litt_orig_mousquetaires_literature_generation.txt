@@ -1,0 +1,12 @@
+ <example>
+ 
+   Texte : Vous connaissez peut-être l'histoire du petit chat qui a trouvé un nouveau chez lui?
+   Il s'appelait Tom. Le chat était gentil, il dormait dans un bon lit, et il n'avait pas trop chaud la nuit. Le soir, il faisait du beurre chaud pour son repas, mais il n'aimait pas la salade. Il aimait bien aussi les pommes et la brique de vin.
+   Un jour, Tom se sentit bien. Il partit pour aller chez lui. Mais il n'était pas encore arrivé à la maison quand il commença à s'ennuyer. Alors il allait sur un petit arbre et il regardait le paysage. La mère de Tom arrivait avec la bête de la famille. C'était une poule. Tom était un peu froid, mais quand il vit la poule il se réchauffa tout de suite.
+   La mère de Tom lui dit : "Tom, qu'est-ce que tu fais là? Tu devrais rester près de chez toi, où il fait chaud!" Tom répondit : "Non, j'aimerais mieux être près de chez toi."
+   La mère de Tom ne lui répondit rien, mais elle le regarda un peu longtemps. La poule était toute seule, elle ne savait pas ce que faire. Tom était heureux de savoir que la poule avait besoin d'ami. Alors Tom lui dit : "C'est bien toi qui me fais du bien. Tu me fais chaleur et je te fais chaud aussi."
+   La poule était heureuse. Elle était tout de suite en plein soleil et le soleil était chaud. La mère de Tom fut contente que son chat soit aussi bon et que la poule soit aussi heureuse. Et elle dit : "Bon, maintenant tu peux rentrer chez toi et dormir sur ton lit très bien." Alors Tom rentra chez lui. Et quand il ouvrit la porte de la maison, il y avait la brique de vin. Tom était très content de ce que la mère lui avait fait.
+ 
+   <example>
+   Texte : On va faire une belle promenade ce matin!
+   Et puis après on va manger dans la grappe et jouer à cache-cache au bord de la rivière, avec le vieux chien qui est dans l'ombre

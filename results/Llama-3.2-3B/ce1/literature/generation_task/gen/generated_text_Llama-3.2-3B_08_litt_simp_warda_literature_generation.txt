@@ -1,0 +1,5 @@
+ <example>
+   Le premier jour à la maison de Mina Murray et John Watson à Saint John's Wood, les deux hommes sont tous deux fatigués, et vont se coucher à l'heure à laquelle les gens ordinaires vont se coucher. À minuit, il se produit quelque chose, et ils partent à la recherche d'une explication, avec la première personne avec laquelle ils se rencontrent, l'hébergement qui leur a été loué. Ils finissent par rencontrer une femme, Mina, qui vit au même endroit que Mrs. Watson, et qui leur explique que son mari est un docteur, et qu'elle aussi est une docteur, qui partage le domicile avec John. John n'en croit pas ses oreilles, et s'exclame qu'il n'a pas besoin d'un second docteur à Saint John's Wood. Mina lui révèle qu'elle a déjà fait la connaissance de son ami. À l'instant où John et Mina parlent, une voiture arrive dans la cour, et un homme s'arrête de conduire une voiture de mer, et John reconnaît que c'est le même qui était avec Mina l'année précédente. 
+
+ 
+   </example>

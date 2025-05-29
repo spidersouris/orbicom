@@ -1,0 +1,12 @@
+ Les premiers satellites furent lassés vers le début des années 1960. C'est le début de l'ère spatiale. Les dernières années ont vu le développement d'engins plus performants et plus puissants.
+ 
+   Les satellites sont lancés vers l'espace par des fusées et des fusées lourdes. Ces satellites ne peuvent que suivre une trajectoire orbitale rectiligne. Leur vitesse de décrochage est fixée lors de leur lancement.
+   Les satellites fonctionnent à des vitesses extrêmement basses, ce qui leur permet de faire des tours autour de la Terre. Ce sont ces satellites qui fournissent le matériel indispensable aux avions. En effet, ce sont eux qui envoient les images des terrains en dessous.
+   L'information que nous possédons aujourd'hui sur la Terre n'existe pas il y a seulement 50 ans.
+   En 1969, l'homme réussit à aller dans l'espace. Il est parti à bord d'un vaisseau baptisé "Columbia". Il est retourné à la Terre avec d'autres hommes. 
+   C'est la date des premières images en couleur des régions arctiques. Les deux satellites de la famille Landsat sont les satellites américains. Ils sont lancés en orbite haute.
+   De ces satellites, des satellites américains et des satellites européens prennent les images. Les images sont ensuite envoyées par voie hertzienne ou par fibre optique vers la Terre. 
+   C'est le premier satellite de télévision. Ce satellite porte le nom de "Télécom" Il est placé à une altitude de 50000 km. Il retransmet des émissions télévisuelles, des données de télé et des images. Les satellites portent également des antennes pour recevoir les communications radio.
+   C'est le plus important satellite de l'histoire de l'espace. Ce satellite a un seul moteur, il est de 3 mètres de diamètre et pèse 19 tonnes. Ce satellite porte plusieurs engins.
+   Ce satellite est chargé de fournir la climatologie des 5 continents. Cette étude permet de déterminer les aléas naturels et d'améliorer les services de la météo sur Terre.
+   Ce satellite est équipé d'un spectromètre. Ce satellite observe

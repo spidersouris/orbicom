@@ -1,0 +1,5 @@
+ ```text
+Suite : Les écureuils sont des mammifères de taille moyenne qui vivent dans divers milieux comme la forêt, la campagne et même les villes. Ils ont de longues pattes et des doigts forts avec de puissants ongles pour griffer et grimper dans les arbres. Les écureuils sont connus pour leurs poches arrière qui leur permettent de transporter des graines ou des noix. Ces animaux stockent des provisions pour l'hiver, c'est pourquoi on les appelle parfois "le raton laveur". Ils sont également remarquables pour leur intelligence et leur adaptabilité. Certains écureuils peuvent même apprendre à ouvrir des boîtes de conserve pour trouver de la nourriture.
+```
+
+```

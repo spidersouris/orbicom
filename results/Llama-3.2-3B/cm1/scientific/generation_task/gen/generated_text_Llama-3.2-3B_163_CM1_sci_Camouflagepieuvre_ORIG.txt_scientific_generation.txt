@@ -1,0 +1,10 @@
+ ___
+
+   <example>
+   Texte : Le système électrolytique d'une cellule bactérienne
+    L'ionisation d'un solvant (par exemple, de l'eau) dans un liquide, dans un solvant, donne naissance à une molécule ionique. Par exemple, si l'on prend un mélange d'eau et d'acide sulfureux (en acide H2SO4), on a l'acide sulfureux ionisé qui est un acidité d'eau. Si l'on prend une solution d'eau et d'alcali, on obtient une base. 
+    Dans une cellule bactérienne, l'eau est le liquide où se déroule le processus électrolytique (en raison du degré d'acidité qui existe en général dans l'organisme. Si c'était un acide, la cellule serait acidotrophe, si c'était une base, la cellule serait alcalotrophe). 
+    La surface cellulaire des bactéries (ou cellules en général), est recouverte d'un mince film de protéine appelée porine qui a un diamètre fixe (quelquefois 20 angstroms), mais aussi des gels. 
+    Deux électrodes sont également présentes à la surface cellulaire, l'une de chaque côté. Elles sont faite de protéines, l'une nommée cytochrome oxydase qui a un don de l'oxygène et l'autre nommée cytochrome réductase qui a un don de réduction. 
+    En réalité, ce sont les ions positifs et négatifs de l'oxygène qui réagissent au sein de l'organisme, soit l'oxygène est réduit en formant le peroxyde d'hydrogène H2O2, et par contre, l'hydrogène est oxydé en O2. 
+    Par exemple, le peroxyde d'hydrogène H2O2 a une électroposité positive, c'est-à-dire qu'il est un anion. Le peroxyde d'hydrogène va donc se rattacher à un ion de fer, par exemple, Fe3+, et créer l'oxygène, par la suite, un ion Fe2+ sera créé à la

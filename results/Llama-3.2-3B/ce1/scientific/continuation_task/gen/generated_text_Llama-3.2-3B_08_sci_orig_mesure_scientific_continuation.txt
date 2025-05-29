@@ -1,0 +1,27 @@
+ La mesure est le moyen d'ordonner l'expérience sensible. Elle est donc le cadre nécessaire de l'esprit qui travaille à l'expérimentation, à l'évaluation, au contrôle. 
+	
+  Elle permet de donner une dimension à l'infini, d'en contrôler le développement, et d'organiser l'avenir.	 
+ 
+
+  ___
+
+  <p>
+    Aujourd'hui, les instruments de mesure scientifiques permettent de quantifier des quantités
+    très petites comme l'énergie d'une particule atomique ou de quantifier la température de la planète dans
+    un rayon de 100 000 km. Pour cela, la science a découvert de nombreux outils de mesure et
+    inventé des unités qui sont des signes convenus pour exprimer des quantités. Il y a plusieurs
+    milliers d'années, les anciens peuples ont mesuré des quantités pour calculer les prix de la
+    consommation, pour déterminer le lieu du soleil à la tombée du jour et la taille des corps célestes,
+    pour construire des bâtiments et des canaux, pour mesurer la qualité des matériaux et des
+    productions. Leur façon d'exprimer des quantités se distingue des nôtres et l'usage des mesures
+    a différé d'une culture à l'autre.
+  </p>
+
+  <p>
+    Les anciens peuples ont su mesurer des quantités, par exemple les longueurs d'un mur ou d'un
+    corps céleste, des volumes de terre qu'ils ont déplacés pour les mettre en jachères, le poids de
+    la nourriture qu'ils avaient apportée ou la quantité de bois de feu qu'ils ont rassemblés pour allumer
+    une fête. Ils ont donc inventé des unités pour exprimer ces quantités. L'unité de longueur,
+    la unité de volume et la unité de poids ont donné naissance aux nombres, qui ont ensuite
+    permis de créer des unités pour mesurer l'espace et le temps. Ainsi, en élevant au carré
+    le nombre associé à une unité, on obtient une unité de surface ; en élevant au cube, on

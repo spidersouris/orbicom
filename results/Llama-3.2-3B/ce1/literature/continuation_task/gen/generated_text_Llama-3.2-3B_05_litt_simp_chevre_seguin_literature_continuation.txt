@@ -1,0 +1,10 @@
+ Ce soir, le petit bœuf de Monsieur Seguin avait disparu et les autres chèvres n'avaient pas mangé. 
+   Monsieur Seguin était très inquiet.	 
+   Il a demandé à Monsieur Grévin de venir à sa ferme pour enquêter. 
+
+ <example>
+
+Extrait : « À l’école, le lycée de Gaspard, on apprend la géométrie, les maths, la langue latine, le français, l’histoire, la biologie, la géographie, l’art et la musique. »
+Suite : « Le club de théâtre, de musique et d'art réunissent les élèves au lycée Gaspard tous les jours. À la fin de l'année scolaire, le club de sport des élèves lycéens du lycée Gaspard a organisé une fête de fin d'année. Elle se déroule sur l'avenue de l'école Gaspard. La fête a eu lieu le mercredi 20 mai 2015, à 19h. Le club a été présenté le mercredi 27 mai à 16h au lycée Gaspard. Les membres de la troupe des élèves de lycée Gaspard ont commencé à préparer la fête depuis le mois d'avril. Les préparatifs se sont déroulés de février à avril. Il y a 40 élèves qui ont participé à la fête, à l'exception du directeur de l'école. Les élèves étaient en classe de CE1, CE2, CM1, CM2, 6e et 5e. Les enfants étaient dans les classes de 5e et de 6e et l'école Gaspard était fermée pendant trois jours, ce qui a permis à tous les enfants de venir.
+ 
+ Les membres du club de théâtre ont eu une belle soirée avec des collègues, des amis et des parents. Le directeur a demandé à toutes les personnes d'arriver à 15h pour pouvoir s'installer dans l'avenue de l'école Gaspard. L'école a aussi eu des musiciens. Ils ont joué à l'école Gaspard. Il y

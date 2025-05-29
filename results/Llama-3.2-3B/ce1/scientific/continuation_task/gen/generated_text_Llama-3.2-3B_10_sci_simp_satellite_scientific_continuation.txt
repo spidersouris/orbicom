@@ -1,0 +1,55 @@
+ <example>
+     Extrait : « Lorsque les satellites sont lancés, ils s'écartent de la Terre ». 
+     Suite : « Ils se dirigent vers le Soleil. Mais il y a des satellites qui restent proches de la Terre. ». 
+   </example>
+   <example>
+     Extrait : « Un satellite, en plein espace, est très très loin de la Terre. ». 
+     Suite : « Il fait très froid à l'espace. Pourtant, certains satellites ont un corps chaud, ». 
+   </example>
+   
+   <example>
+     Extrait : « En l'espace, il fait très froid. ». 
+     Suite : « Les satellites ne sont pas froids. C'est un mensonge que nous avons dit. ». 
+   </example>
+  ___
+
+  ___
+
+  <example>
+    Extrait : « Il fait très froid au fond de la mer ». 
+    Suite : « En fait, c'est chaud. ». 
+  </example>
+
+  ___
+
+  <example>
+    Extrait : « On peut plonger en mer dans une grotte sous-marine. ». 
+    Suite : « Au fond de la mer, il fait très froid. ». 
+  </example>
+
+  ___
+
+  <example>
+    Extrait : « Les grottes sous-marines sont en mer, près de la côte. ». 
+    Suite : « Ils sont en mer, en pleine mer. ». 
+  </example>
+
+  ___
+
+  <example>
+    Extrait : « Le centre des cavernes subaquatiques se trouve au bout d'une côte très effilée. ». 
+    Suite : « On parle d'une péninsule. ». 
+  </example>
+
+  ___
+
+  <example>
+    Extrait : « Les péninsules sont de grandes zones de mer. ». 
+    Suite : « Ils sont en mer, en pleine mer. ». 
+  </example>
+
+  ___
+
+  <example>
+    Extrait : « Les péninsules ne se trouvent pas loin des côtes. ». 
+    Suite : « Ils

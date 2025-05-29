@@ -1,0 +1,8 @@
+ ```plaintext
+Un arbre dont les branches étaient si basses qu'on pouvait frôler son tronc avec nos doigts. Cette grande plante avait une particularité unique : chaque année, à la fin du mois d'avril, il donnait naissance à une centaine de fleurs multicolores. Ces belles fleurs étaient si attrayantes qu'elles attirent des dizaines de petits insectes et de papillons colorés. Les habitants du village en avaient tellement aimé l'apparence et l'odeur que depuis des années, ils avaient commencé à le nommer "l'arbre aux cent fleurs". Chaque année, à l'époque où les fleurs apparaissaient, le village se métamorphosait en un joyau de nature, attirent par leur beauté de nombreux visiteurs curieux et admiratifs. C'est alors que se produisait une merveille encore plus incroyable...
+   ```
+ Voici la suite :
+
+   ```plaintext
+C'est alors que se produisait une merveille encore plus incroyable : chaque nuit, lorsque le dernier rayon de soleil disparaissait derrière les montagnes, l'arbre émettait une douce lueur dorée. Cette lueur éclairait le village d'une lumière mystérieuse, apportant avec elle un calme serein. Les habitants disaient que c'était le moment où les esprits de leurs ancêtres revenaient, protégeant la communauté et apportant paix et prospérité pour le reste de l'année. Et ainsi, cette légende s'inscrivait chaque année dans le cœur des gens, ajoutant à l'histoire riche et fascinante de cet arbre exceptionnel.
+   ```

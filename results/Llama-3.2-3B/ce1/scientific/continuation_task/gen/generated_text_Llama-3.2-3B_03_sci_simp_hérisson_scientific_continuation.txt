@@ -1,0 +1,21 @@
+ Le hérisson est un petit mammifère qui vit au sol. Son nom vient de la douleur qu'il fait aux gens qui veulent toucher son museau. Mais son pelage est soyeux et doux comme du linge, on l'appelle parfois le petit chien de nuit. Au début de l'hiver, le hérisson, après s'être complètement nourri, devient inactive pour l'hiver. Pour dormir, il fait sa nidée dans le sable et il fait un trou. 
+
+ 
+
+  <example>
+
+    Extrait : « En ce jour, ce sont les hommes qui devaient mener la marche sur les Alpes, pour traverser une montagne aux parois impénétrables et dangereuses ». Suite : « Mais les soldats n'avaient aucune expérience de l'hiver norvégien et des Alpes italiennes et ne savaient pas comment s'en sortir. A cause de la haine que le Roi Louis XV de France avait pour le Duc de Richelieu, ils n'obéirent pas aux ordres de leur commandant. Il mourut dans ce pays, de maladie, et ses hommes s'enfuiront comme ils ont pu. » 
+
+  </example>
+
+  <example>
+
+    Extrait : « Le poète ». Suite : « Ce poète fut né à la petite ville d'Aire sur l'Adour, en 1611, de parents pauvres mais d'un cœur noble. Ses parents le firent entrer au couvent dès l'âge de six ans. Son père était fermier de l'évêque d'Aire et lui confia son petit chien qui portait son nom. »
+    
+  </example>
+
+  <example>
+
+    Extrait : « Le chat sauvage ». Suite : « Le chat sauvage est un mammifère de la famille des félidés. Ce sont des animaux qui vivent surtout sur les terres d'Afrique et d'Asie. Les chats sauvages peuvent être blanches ou brunes. Les chats sauvages sont très intelligents et beaucoup de gens les aiment pour cette raison. Ils n'aiment pas les chats domestiques parce que ces derniers volent et se cachent. »
+
+ 

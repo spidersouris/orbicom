@@ -1,0 +1,6 @@
+ <example>
+
+   Texte : On était au mois de septembre, dans la rue Maillot et le petit Arnaud, accompagné de son ami Armand, s'apprêtait à jouer à la bombe. Le but de la bombe est de la jeter contre la maison d'un de ses camarades pour l'affolter et qu'il ne puisse pas entrer dans la salle de sport. Arnaud et son ami l'araignée se sépareront à 50 mètres. Chacun d'eux va jeter la bombe. Pour cela il est nécessaire d'enrouler l'explosif à la corde d'un fusil, il faut ensuite tirer la corde et finalement, mettre la bombe sur le côté de sa tête, mais pas trop loin. La bombe va alors faire une explosion avec une voix forte, elle devrait se répandre à 20 mètres. Enfin, les deux amis vont marcher vers la maison de leur camarade pour le chambouler. Au cours de l'expérience, les enfants devraient noter les résultats.
+    
+   </example>
+

@@ -1,0 +1,22 @@
+ ___
+
+   Texte : On parle de "références bibliographiques" quand on écrit un article ou un mémoire à la bibliographie. En effet, il faut expliquer dans le texte quels textes on a pu consulter (ou lire) pour s'informer. On dit aussi "citer". C'est très important quand on est "scholar". En effet, c'est la manière de donner les références des livres, des articles et des sites web que l'on a consulté (ou utilisé) pour s'informer, etc. Ce sont les références que l'on utilise pour répéter ou éclairer ce qu'on dit. 
+
+On écrit les références en utilisant la notation de la référence. En effet, pour écrire un références bibliographique il faut utiliser l'outil du traitement de texte. Pour ce faire, il faut utiliser un code qui s'appelle le style APA, ou Harvard, ou Vancouver... Il y a des notations différentes qui sont utilisées selon les domaines. Par exemple, quand on écrit une mémoire de philosophie, il faut utiliser le style APA. Et si on écrit un article scientifique en sciences de l'information et de la communication, on utilise le style Vancouver. En effet, il existe plusieurs styles de notation de références bibliographiques. Il y a : 
+ - le style APA (Amerique du Nord);
+ - le style Harvard (UK);
+ - le style Vancouver (Canada);
+ - le style CHICAGO (Chicago);
+ - le style MHRA (UK);
+ - le style OXFORD (UK)
+ - le style ANNE (Australie).
+ 
+Il est important d'utiliser la notation qui est utilisée dans le domaine pour lequel on écrit un document.
+
+Dans notre école, nous utilisons le style APA pour la bibliographie. Il faut savoir ce que signifie chaque partie de cette notation : 
+ - La numérotation : On commence le nombre 1. 
+ - L'auteur : On met son nom. 
+ - La page : On ne met pas de page, mais on met la date de publication. 
+ - Le lieu de publication : On indique le lieu de publication de l'ouvrage. 
+ - Le nom de l'éditeur : On écrit la phrase "In" puis le nom de l'éditeur. 
+ - La page : On indique la page. 

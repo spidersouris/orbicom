@@ -1,0 +1,6 @@
+ <example>
+  
+    <example>
+      Texte : Au père Noël on n'envoie pas des cadeaux à un jeune enfant.
+    </example>
+  </example>

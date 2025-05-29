@@ -1,0 +1,17 @@
+ <example>
+  ___
+
+  Texte : <h1>Un vieux chien de nom Néron se sent trop vieux pour les chiens. </h1>
+  <p>Néron se rend au zoo où il voit les nouveaux chiens. Ils lui semblent bien jeunes. </p>
+  <p>Il leur propose son aide, s'engage pour les accompagner. </p>
+  <p>Pour lui aussi, l'ennui commence à l'engourdir. Mais c'est fini, pour lui comme pour eux, quand il rencontre l'oiseau.</p>
+  <p>Il se rend compte que l'oiseau n'a pas d'envie de vivre. Il a déjà trop vieilli et il souhaite mettre fin à ses jours.</p>
+  <p>Il est alors sauvé par Néron qui lui offre de lui donner vie et l'emmène le prendre avec lui à la campagne. </p>
+  <p>Il vit de ce moment là avec Néron, un chien jeune, qui lui dit qu'il vit pour vivre, qu'il veut vivre, qu'il est heureux. </p>
+  <p>Néron lui donne de l'amour et lui explique qu'il doit continuer à aimer. Il lui apprend à aimer le soleil et la nature.</p>
+  <p>Il lui apprend à se reposer, à se réjouir. </p>
+  <p>Il lui apprend que la vie est belle. Il lui apprend à vivre.</p>
+  <p>De plus en plus le chien jeune s'adonne à la vie. Il joue avec Néron, mange du gâteau, s'allonge dans la lumière du soleil. Il se rassase. </p>
+  <p>Les jours passent, il continue à s'adonner à la vie. Il sent en lui de plus en plus de force. Il est devenu fort. </p>
+  <p>L'oiseau est devenu enfin heureux. Il a retrouvé son avenir. Il va reprendre le vol. </p>
+  <p>Néron prend soin du chien. Il l'aide à se débarrasser de ses

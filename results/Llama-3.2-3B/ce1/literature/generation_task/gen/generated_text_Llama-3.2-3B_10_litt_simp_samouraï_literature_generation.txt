@@ -1,0 +1,4 @@
+ <example>
+ 
+     Texte : Le Poudlard est rempli de créatures mystérieuses et de mystères. Ensuite, on a la légende du Poudlard, on se demande quand c'est arrivé. Quelle a été la première année. Le Poudlard n'est pas vieux, il est assez jeune. Mais qu'est-ce qui a déclenché l'idée d'une école. Quel était le but d'une telle école. Mais ce n'est pas le but principal, ce qui est important c'est ce qui s'est passé avant. 
+   </example>

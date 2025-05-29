@@ -1,0 +1,12 @@
+ <example>
+
+   Texte : La messe est une pratique religieuse qui se déroule généralement à l'église. Cette cérémonie qui unit le corps et l'esprit de la communauté se déroule tous les dimanches.
+   Pour cela, les fidèles se rassemblent, les femmes et les enfants se mettent au premier rang et les hommes, se tiennent derrière.
+
+   <example>
+
+   Texte : La cuisine est l'art de préparer des mets savoureux et délicieux.
+  
+   <example>
+   <example>
+   <example>

@@ -1,0 +1,26 @@
+ ___________
+  #Lire et comprendre
+  En lisant ce texte, on apprend les roches suivantes : argile, plâtre, gypse et marbre.	   
+  Le texte montre aussi le rôle de chacune de ces roches.	   
+  Lorsqu'on les rencontre dans le texte, on peut retrouver facilement les termes suivants : plâtrer, faire poudre, mouler, lisser, fabriquer, construire, utilisée, utilisé.
+ 
+ 
+  ___________
+  #Ecrire
+  A partir de ce texte, nous pouvons écrire un texte sur les roches utilisées par l'homme, à l'aide du mode de travail suivant :	   
+  1) On copie les lignes du texte sur l'onglet de gauche, puis on passe à l'onglet de droite.	   
+  2) On met la marque dans un de ces deux onglets et on appuie sur le bouton "Transférer" ou "Transférer et remplacer" et on envoie la marque vers l'onglet à droite.	   
+  3) On se remet à partir de la première ligne du texte, on la copie puis on la place en bout de phrase et on appuie sur le bouton "Découper" puis "Mettre en page", puis "Casser les lignes" pour que la phrase soit séparée des lignes suivantes.
+  Ce procédé permet de travailler sur plusieurs phrases à la fois.
+  
+  ___________
+  #Saisir et débrouiller
+  Le texte contient les lignes suivantes :	   
+  - "de nos jours, elles sont traitées dans des usines"	   
+  - "l'argile est utilisée pour fabriquer des assiettes"	   
+  - "l'argile est utilisée pour fabriquer des assiettes"	   
+  - "chauffé à 150 degrés dans des fours"	   
+  - "De nombreuses roches sont utilisées par l'homme"	   
+  - "La roche d'Alaska est utilisée par l'homme"	   
+  - "Toutes les roches que l'homme utilise sont extraites de la terre"	   
+  - "Le gypse est une roche tendre"

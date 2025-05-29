@@ -1,0 +1,32 @@
+ ___
+
+   # J'utilise la fonction generate_text avec les arguments suivants :  
+   ```python  
+   text_model = "XLNET"  
+   # Ici, on utilise le modèle de langage XLNET pour créer des phrases.  
+   text_generate_type = "fill-in-the-blank"  
+   # Ici, on utilise le type de génération de textes (fill-in-the-blank) pour créer des phrases.  
+   text_generate_length = 500  
+   # Ici, on utilise la longueur des phrases à générer (500 par défaut)  
+   num_samples = 5  
+   # Ici, on utilise le nombre d'échantillons à générer (5 par défaut)  
+   num_beams = 2  
+   # Ici, on utilise le nombre de bâtons à utiliser pour la génération des phrases (2 par défaut)  
+   max_seq_len = 500  
+   # Ici, on utilise la longueur maximale des phrases à générer (500 par défaut)  
+   min_seq_len = 300  
+   # Ici, on utilise la longueur minimale des phrases à générer (300 par défaut)  
+   n_top_n = 20  
+   # Ici, on utilise le nombre de phrases à générer (20 par défaut)  
+   batch_size = 10  
+   # Ici, on utilise le nombre d'échantillons par génération (10 par défaut)  
+   temperature = 0.3  
+   # Ici, on utilise la température (0.3 par défaut)  
+   num_return_sequences = 5  
+   # Ici, on utilise le nombre de phrases à générer pour chaque échantillon (5 par défaut)  
+   model_name_or_path = "bert-base-uncased"  
+   # Ici, on utilise le modèle Bert-Base (en utilisant un encodage de caractère non accentué) pour créer des phrases.  
+   ## La liste de fichiers est à renseigner par le développeur :  
+   ## Ici, on utilise les fichiers qui contiennent les phrases pour la génération de textes (cette liste sera à renseigner par le développeur).  
+   text_list = ["", "", "", "", ""]  
+   # Ici, on utilise la liste de phrases à utiliser pour la génération de

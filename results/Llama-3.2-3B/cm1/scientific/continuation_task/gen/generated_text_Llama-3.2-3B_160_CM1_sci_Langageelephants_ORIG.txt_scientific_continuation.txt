@@ -1,0 +1,23 @@
+...les éléphants sont les seuls animaux à posséder une voix sonore, ils utilisent leurs grands et longs trompes pour produire un bruit similaire à un bruit de trompette.
+ 
+ <example>
+ 
+  Extrait : « La pêche aux grenouilles est une activité qui consiste à attraper des grenouilles par l'intermédiaire d'un filet à la fin duquel est fixée une pièce d'appât. »
+  Suite : « On parle aussi de pêche de lombrics, car le filet est souvent composé d'un filet d'eau profonde auquel sont collés des lombrics pour attirer les grenouilles. »
+  
+ </example>
+
+  <example>
+  
+  Extrait : "La pâquerette, appelée aussi fleur des champs ou « blanche-ferme », est une plante herbacée de la famille des Rosacées. Elle est originaire d'Amérique du Nord. Elle fleurit de mars à juillet."
+  Suite : "Cette plante, dite aussi « bleuette » en Suisse, est commune aux vergers et aux prairies."
+  <link url="https://en.wikipedia.org/wiki/Delphinium"> 
+  <link url="https://fr.wikipedia.org/wiki/Flou-de-terrasse"> 
+  </example>
+
+  <example>
+  
+  Extrait : « La pêche aux grenouilles est une activité qui consiste à attraper des grenouilles par l'intermédiaire d'un filet à la fin duquel est fixée une pièce d'appât. »
+  Suite : « On parle aussi de pêche de lombrics, car le filet est souvent composé d'un filet d'eau profonde auquel sont collés des lombrics pour attirer les grenouilles. »
+  
+  </example>

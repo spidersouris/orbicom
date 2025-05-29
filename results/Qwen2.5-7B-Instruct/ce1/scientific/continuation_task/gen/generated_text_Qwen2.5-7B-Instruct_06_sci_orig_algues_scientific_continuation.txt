@@ -1,0 +1,10 @@
+ ___
+
+  Suite :
+```markdown
+Elles ne possèdent pas de racines, de feuilles ou de fleurs comme les plantes terrestres. Au lieu de celles-ci, elles ont des appendices qui fixent leur pied à la roche ou au sable, appelés holdfasts. D'autres ont des structures qui leur permettent de capturer la lumière solaire nécessaire à la photosynthèse, appelées chloroplastes. 
+
+Les algues peuvent vivre dans différents milieux : l'eau douce, l'eau salée des océans ou même sur la terre ferme. Certaines sont minuscules et invisibles à l'œil nu, tandis que d'autres peuvent atteindre plusieurs mètres de longueur. 
+
+Les algues jouent un rôle crucial dans l'écosystème marin car elles produisent de l'oxygène par la photosynthèse, comme les plantes terrestres. Elles fournissent également de la nourriture pour divers organismes marins. En outre, certaines algues ont des utilisations médicales et alimentaires. Par exemple, les algues nori sont utilisées pour confectionner les sushis japonais.
+```

@@ -1,0 +1,34 @@
+ ﻿
+  _____
+
+   <example>
+   
+   Extrait : ﻿Afin d'espionner les animaux, le Roi des animaux fit construire un mur de bois et de terre au milieu de la clairière où vivent les animaux. Il y posa aussi de nombreuses pièges, dont l'un d'eux, au coin d'un sentier, avait été placé pour attraper les bêtes folles. Le jour où il fallait ramasser le fourrage, il partit avec son chien pour les chasses. De son côté, le Petit Roi se cacha dans la brousse. Il se rendit compte, après avoir vu les bêtes passer, qu'elles étaient des fées.
+   Suite : ﻿Il se trouva alors que le Roi des animaux avait réussi à attirer des fées en piège. Il était donc décidé à les tuer. Les fées voulurent, pourtant, sortir du piège en même temps qu'un cochon. Le Roi des animaux, ayant vu que l'un des animaux du piège était sorti, eut peur que ce soit lui et, à ce moment-là, le Petit Roi vint à sa rescousse.
+   _____
+
+   <example>
+    
+    Extrait : ﻿« J'ai l'impression que tu me trompes. »
+    Suite : ﻿« Pourquoi as-tu dit cela? »
+    _____
+
+  </example>
+
+  <example>
+    
+    Extrait : ﻿« J'ai l'impression que tu me trompes. »
+    Suite : ﻿« Pourquoi as-tu dit cela? »
+    _____
+
+  </example>
+
+  <example>
+    <example-fragment>« J'ai l'impression que tu me trompes. »
+    <example-fragment>Suite : ﻿« Pourquoi as-tu dit cela? »
+    <example-fragment>_____
+    </example-fragment>
+    </example>
+    _____
+  </example>
+  

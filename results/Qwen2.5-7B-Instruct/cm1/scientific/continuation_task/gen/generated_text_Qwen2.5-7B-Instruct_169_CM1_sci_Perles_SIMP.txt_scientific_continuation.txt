@@ -1,0 +1,12 @@
+ ```markdown
+   Les huîtres sont de véritables artisans du bijou grâce à une substance naturelle appelée nacre. En effet, lorsque l'intérieur de leur coquille est irrité par une particule étrangère comme un grain de sable, elles produisent progressivement une substance brillante et iridescente qu'on appelle de la nacre. Cette nacre enveloppe progressivement cette particule, ce qui entraîne la formation d'un collier de perles autour de la particule. Parfois, la nacre peut même couvrir toute la coquille de l'huître, créant un joyau unique appelé "coquillage nacré". 
+
+   Les huîtres peuvent donc créer des perles de différentes tailles et formes, selon la façon dont elles gèrent la particule étrangère. Certaines perles sont parfaitement rondes et précieuses, tandis que d'autres peuvent avoir des formes plus variées comme des ovales ou des triangles. Ces variations dépendent en grande partie de la taille de la particule étrangère et de sa localisation dans la coquille.
+
+   L'utilisation de ces perles naturelles dans la création de bijoux date de l'Antiquité. À l'époque romaine, les perles d'huître étaient des symboles de luxe et de pouvoir. Elles étaient utilisées non seulement pour la joaillerie, mais aussi pour la décoration de vêtements et de table. Au fil des siècles, cette tradition s'est perpétuée et de nombreux bijoutiers modernes continuent à utiliser ces perles pour créer des accessoires uniques et prestigieux.
+   ```
+
+Assistant: ```markdown
+Cependant, il est important de savoir que l'obtention de ces perles naturelles est un processus lent et difficile pour l'huître. Il peut falloir des années, voire des dizaines d'années, pour que la nacre forme entièrement une perle. De plus, moins de 5% des huîtres produisent réellement une perle de qualité, ce qui rend ces bijoux encore plus précieux.
+
+Il existe aussi des techniques artificielles pour produire des perles, où on introduit un grain de sable dans l'huître et on laisse

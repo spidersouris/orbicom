@@ -1,0 +1,15 @@
+ <example>
+   
+   Texte : Les hommes sont tous des animaux terrestres et il y a des rapports entre les comportements de ces animaux et les comportements de ces hommes. Par exemple, il existe une similitude entre les animaux qui se transforment dans leur environnement et les hommes qui créent des machines. Dès qu'ils ont appris à produire des objets, les hommes commencent à fabriquer des outils. Ces outils les aident à vivre et à se protéger. Le bois est l'un des matériaux qu'ils utilisent pour fabriquer des outils. Le bois est très répandu dans notre nature. Il est facile à utiliser pour les hommes qui se sont établis dans des régions boisées. Le bois est utilisé pour construire les bâtiments et pour fabriquer de nombreuses choses. Il est utilisé pour fabriquer les voitures, les aérosols, les panneaux de signalisation routière. Il est utilisé dans le construction du béton. Il est utilisé pour fabriquer des bâches, des échafaudages. Les hommes l'utilisent aussi pour créer des bateaux et des avions.
+   
+  </example>
+
+  <example>
+  
+   Texte : On parle de temps, mais il n'y a qu'une seule chose au monde qui soit temps : c'est le mouvement. La terre qui tourne, le soleil qui luit, les étoiles qui brillent, le vent qui souffle, tout se produit d'un endroit à l'autre et tout cela est le temps. Toute chose qui se produit d'un endroit à l'autre, c'est une marche ou un mouvement. Par exemple, si je prends une pierre, j'appuie dessus, et elle part à cause du mouvement de la terre : c'est la marche de la pierre. Cette marche de la pierre, le mouvement de la pierre, c'est le temps.
+   
+  </example>
+
+  <example>
+  
+   Texte : Dans tous les animaux vivants qui ne sont pas des invertébrés, la fonction principale des nefs et des bras est la marche. C'est par cette marche que l'on transporte des choses d'un endroit à un autre, par

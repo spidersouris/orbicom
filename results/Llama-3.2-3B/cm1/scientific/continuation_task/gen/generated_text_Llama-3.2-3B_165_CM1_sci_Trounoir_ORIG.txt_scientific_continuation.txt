@@ -1,0 +1,12 @@
+ Au 21ème siècle, les sciences dites exotiques ont pu réunir suffisamment d'informations sur ces trous d'espace afin de constater leur existence, leur nombre, leur localisation exacte, et surtout leur origine. 
+   C'est aujourd'hui un fait historique: on sait que ces trous d'espace existent et qu'ils sont très nombreux, mais il n'est pas encore établi clairement de quelle nature ils sont faits ni de quelle fonction ils servent. 
+   Pour l'instant, tous les objets de ce type connus sont des trous à vide, mais on n'a aucune preuve que ce soit toujours le cas. 
+   La seule certitude qui existe actuellement est que ces trous sont par nature assez grands, du fait qu'il ne s'agit pas d'astéroïdes ou d'astres. 
+   Les dimensions des trous sont estimées à 60 à 70 km de diamètre, ce qui en fait de très gros objets, même s'ils sont encore très petits par rapport à l'Univers. 
+   En raison de leur taille relativement importante, les trous d'espace sont assez lourds, c'est-à-dire qu'ils sont suffisamment éloignés des étoiles pour ne pas s'y fondre dans les courants d'étoiles et autres débris de galaxies.
+   Ce fait est étonnant, car le poids du vide est négligeable. Les mathématiciens savent qu'une sphère d'eau à vide de 60 km de diamètre aurait un poids comparable à une goutte d'eau sur une planète. 
+
+  <example>
+  
+    Extrait : ﻿L'histoire de la Terre commence il y a 4,5 milliards d'années, au moment de la formation du soleil. Les astronomes pensent qu'elle est née d'une gigantesque explosion nucléaire, qui s'est déroulée loin dans le cosmos. 
+ Suite : « Au cours des trois premiers milliards d'années, la Terre s'est transformée en un gigantesque labyrinthe de cratères et de boucles géantes. Puis, il y a deux milliards d'années, elle a commencé à se stabiliser. La croûte, que l'on connaît maintenant sous le nom

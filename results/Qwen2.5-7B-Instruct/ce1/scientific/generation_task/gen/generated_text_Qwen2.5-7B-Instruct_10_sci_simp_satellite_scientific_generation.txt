@@ -1,0 +1,18 @@
+ Voici le texte adapté pour un public CE1 :
+
+Les satellites sont comme des yeux dans l'espace. Ils nous montrent des images de notre planète et ils aident à la météo. Si tous ces yeux tombaient malades, on n'aurait plus d'informations météo! Et les matches de foot seraient bien moins amusants parce qu'on ne saurait pas quand les buts sont marqués. 
+
+Les matchs, les films et les jeux vidéo ne seraient plus aussi directs. On pourrait toujours écouter de la radio, mais sans images ni matchs en direct. Internet serait encore possible, car il utilise des câbles sous terre ou au fond des océans. Les satellites aident aussi beaucoup à naviguer : les bateaux et les avions utilisent des satellites pour savoir où ils vont.
+
+Un grand système de satellites appelé GPS aide les voitures, les agriculteurs et même les bateaux à se retrouver. Une voiture utilise 4 satellites pour savoir où elle est. Un tracteur agricole regarde chaque seconde combien de grains il ramasse et où. De cette façon, il sait exactement où appliquer de l'engrais. Il y a beaucoup de satellites, plus de 2500 en tout, qui tournent autour de la Terre pour aider les gens. Voilà, on a fait de nombreux amis en haut de l'espace!
+ 
+
+___
+```markdown
+### Les Satellites
+
+Les satellites sont comme des yeux magiques dans l'espace. Ils aident à faire la météo et montrent des images de notre planète. Si tous ces yeux tombaient malades, on n'aurait plus d'informations météo ! Et on ne pourrait plus voir les matchs de foot en direct.
+
+Les matchs, les films et les jeux vidéo seraient moins funs parce qu'ils ne seraient plus en direct. On pourrait toujours écouter de la radio, mais sans images ni matchs en direct. Internet resterait possible car il utilise des câbles sous terre ou au fond des océans. Les satellites aident aussi beaucoup à naviguer : les bateaux et les avions utilisent des satellites pour savoir où ils vont.
+
+Un grand système de satellites appelé GPS aide les voitures, les agriculteurs et même les bateaux à se trouver. Une voiture utilise 4 satellites pour

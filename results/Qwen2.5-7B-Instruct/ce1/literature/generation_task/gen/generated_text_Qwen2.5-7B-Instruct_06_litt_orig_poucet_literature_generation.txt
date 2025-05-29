@@ -1,0 +1,17 @@
+ ``` 
+   
+   Texte : Il était une fois un pauvre bûcheron qui avait sept petits garçons. Un jour, il dit à sa femme : "Demain, je vais abandonner nos enfants dans la forêt, car nous n'avons plus rien pour les nourrir." Mais le plus petit des garçons entendit ces mots. Il prit soigneusement sept cailloux blancs dans ses poches. Le lendemain, les enfants se retrouvèrent seuls dans la forêt, mais le Petit Poucet suivit leurs pas en déposant les cailloux pour retrouver leur chemin. Malheureusement, le Petit Poucet n'avait pas apporté assez de cailloux pour le deuxième jour. Les enfants étaient-ils perdus ?
+
+Pendant cette deuxième journée, ils décidèrent de continuer et de trouver un endroit pour dormir. Ils découvrirent un grand château habité par un ogre avec sept filles. L'ogre offrit à la famille de dormir chez lui, espérant les manger le lendemain. Pendant la nuit, le Petit Poucet vola les couronnes en or que portaient les filles et les mit sur les têtes des garçons pour leur donner l'apparence de filles. Quand l'ogre voulut manger les garçons, il ne les reconnut pas et mangea ses filles à leur place. Les garçons purent ainsi sortir du château, et le Petit Poucet emporta les bottes de sept lieues de l'ogre.
+
+Grâce à ces bottes, le Petit Poucet put porter des lettres importantes pour les rois de différentes contrées. Il devint très riche et son family put vivre heureusement.
+   
+  ``` 
+   
+  
+
+```markdown
+
+Texte : Il était une fois un brave bûcheron qui avait beaucoup d'enfants. Un jour, il dit à sa femme : "Nous n'avons plus de pain pour nourrir nos enfants, nous devons partir." Son petit garçon, appelé Petit Poucet, entendit ces mots. Il prit sept cailloux blancs dans ses poches. 
+
+Le lendemain, les enfants se retrouvèrent seuls dans la forêt. Mais Petit Poucet suivit leur trace, déposant les cailloux

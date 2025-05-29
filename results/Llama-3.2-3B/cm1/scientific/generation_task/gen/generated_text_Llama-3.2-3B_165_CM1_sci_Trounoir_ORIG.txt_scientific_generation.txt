@@ -1,0 +1,15 @@
+ __
+
+   Texte : ﻿La lumière, ou l'effet photoélectrique, a été démontrée pour la première fois, il y a 125 ans, par l'Américain Thomas Edison.
+Dans le laboratoire, il déposa de la poussière minérale à la surface d'une lampe électrique. Cette lampe était enroulée à une bobine de fil de cuivre électrifié.
+Lorsque la lampe était allumée, les électrons dans le fil de cuivre étaient attirés par les électrons dans la poussière.
+Lorsque la poussière et le fil de cuivre se rapprochaient, la poussière, par sa présence, produisait un courant électrique.
+Ceci est le principe de la plupart des appareils qui produisent de la lumière (radiateurs de chambre noire, lumières, téléviseurs, ordinateurs, etc.)
+Pourquoi cette expérience est-elle importante? Parce que nous utilisons chaque jour des appareils qui utilisent ce principe.
+Le principe est de démontrer que les électrons peuvent être attirés par les électrons, et non pas par les noyaux, comme l'avait proposé J. J. Thomson (prix Nobel de physique en 1906), 4 ans avant l'expérience de Thomas Edison.
+La plupart des chercheurs estimaient que les électrons étaient attachés aux noyaux. Mais l'expérience de Thomas Edison a démontré que c'était faux! 
+La fonction photoélectrique n'est utilisée que dans les appareils qui permettent de produire de la lumière ou de la chaleur (radiateurs de chambre noire, téléviseurs, lampes, etc.).
+Le principe photoélectrique est basé sur la quantité de lumière réfléchie sur une surface et sur sa luminosité.
+La quantité est mesurée en Watts.
+La luminosité est mesurée en lumens.
+La fonction photoélectrique est égale à la quantité de lumière réfléchie sur une surface divisée par la luminosité de la surface.

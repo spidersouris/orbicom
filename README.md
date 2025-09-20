@@ -39,7 +39,7 @@ positional arguments:
 
 options:
   -m MODELS [MODELS ...], --models MODELS [MODELS ...]
-                        List of model identifiers to include in the plot (default: all models; can be "llama", "qwen", "mistrlal")
+                        List of model identifiers to include in the plot (default: all models; can be "llama", "qwen", "mistral")
   -l {ce1,cm1,all}, --level {ce1,cm1,all}
                         Level of the corpus ('ce1' or 'cm1' or 'all' for both levels)
   -t {literature,scientific,all}, --text_type {literature,scientific,all}

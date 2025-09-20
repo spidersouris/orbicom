@@ -166,18 +166,21 @@ def calculate_confidence_metrics(df):
 def plot_surprisal_context(
     dfs,
     min_ratio,
+    models,
     surprisal_threshold=4,
     save_to_file=False,
     save_interactive=False,
 ):
+    model_titles = {
+        "llama": "Llama-3.2-3B",
+        "mistral": "Mistral-7B-Instruct-v0.3",
+        "qwen": "Qwen2.5-7B-Instruct",
+    }
+
     fig = make_subplots(
         rows=1,
-        cols=3,
-        subplot_titles=[
-            "<b>Llama-3.2-3B</b>",
-            "<b>Mistral-7B-Instruct-v0.3</b>",
-            "<b>Qwen2.5-7B-Instruct</b>",
-        ],
+        cols=len(models),
+        subplot_titles=[f"<b>{model_titles[model]}</b>" for model in models],
     )
 
     for idx, df in enumerate(dfs):
@@ -242,10 +245,11 @@ def plot_surprisal_context(
                 go.Scatter(
                     x=steps,
                     y=surprisal,
-                    mode="markers",
-                    name=f"{T[LANG]['chosen_label']}: {token_name}",
-                    # name=f"Choisi : {token_name}",
-                    marker=dict(color=colors[token_name], size=5, opacity=1),
+                    mode="markers+text",
+                    text=[f"<b>{s:.2f}</b>" for s in surprisal],
+                    textposition="top center",
+                    name=f"{T[LANG]['chosen_label']} {token_name}",
+                    marker=dict(color=colors[token_name], size=15, opacity=1),
                     hovertemplate=f"{T[LANG]['context']} %{{customdata}}<br>{T[LANG]['surprisal']}: %{{y:.2f}}<extra></extra>",
                     # hovertemplate="Context: %{customdata}<br>Surprisal: %{y:.2f}<extra></extra>",
                     customdata=context,
@@ -263,7 +267,7 @@ def plot_surprisal_context(
         )
     )
 
-    for col in range(1, 4):
+    for col in range(1, len(models) + 1):
         fig.update_yaxes(
             title_text=T[LANG]["surprisal"],
             gridcolor="lightgray",
@@ -283,7 +287,7 @@ def plot_surprisal_context(
 
     fig.update_layout(
         height=800,
-        width=1600,
+        width=630 * len(models),
         barmode="overlay",
         showlegend=True,
         template="plotly_white",
@@ -295,10 +299,12 @@ def plot_surprisal_context(
             yanchor="top",
         ),
         title=f"{T[LANG]['surprisal_title']} {T[LANG]['lquote']}{key_token}{T[LANG]['rquote']} {T[LANG]['and']} {T[LANG]['lquote']}{value_token}{T[LANG]['rquote']}, {T[LANG]['threshold']} {round(surprisal_threshold, 2)}",
+        title_y=0.975,
+        title_x=0.88,
         # title=f"Surprise associée à la sélection des tokens « {key_token} » et « {value_token} »",
         xaxis_title=f"{T[LANG]['tokens_generated']}",
         yaxis_title=f"{T[LANG]['surprisal']}",
-        font=dict(family="Arial", size=14, color="#7f7f7f"),
+        font=dict(family="Arial", size=13, color="#7f7f7f"),
         paper_bgcolor="white",
         plot_bgcolor="white",
     )
@@ -336,17 +342,20 @@ def plot_surprisal_context(
 def plot_pair_probabilities(
     dfs,
     min_ratio,
+    models,
     top_k_limit=None,
     save_to_file=False,
 ):
+    model_titles = {
+        "llama": "Llama-3.2-3B",
+        "mistral": "Mistral-7B-Instruct-v0.3",
+        "qwen": "Qwen2.5-7B-Instruct",
+    }
+
     fig = make_subplots(
         rows=1,
-        cols=3,
-        subplot_titles=[
-            "<b>Llama-3.2-3B</b>",
-            "<b>Mistral-7B-Instruct-v0.3</b>",
-            "<b>Qwen2.5-7B-Instruct</b>",
-        ],
+        cols=len(models),
+        subplot_titles=[f"<b>{model_titles[model]}</b>" for model in models],
     )
 
     for idx, df in enumerate(dfs):
@@ -450,7 +459,7 @@ def plot_pair_probabilities(
         )
     )
 
-    for col in range(1, 4):
+    for col in range(1, len(models) + 1):
         fig.update_yaxes(
             title_text=f"{T[LANG]['probability']}",
             gridcolor="lightgray",
@@ -472,7 +481,7 @@ def plot_pair_probabilities(
 
     fig.update_layout(
         height=800,
-        width=1600,
+        width=630 * len(models),
         barmode="overlay",
         showlegend=True,
         template="plotly_white",
@@ -484,10 +493,12 @@ def plot_pair_probabilities(
             yanchor="top",
         ),
         title=f"{T[LANG]['selection_prob']} {T[LANG]['lquote']}{key_token}{T[LANG]['rquote']} {T[LANG]['and']} {T[LANG]['lquote']}{value_token}{T[LANG]['rquote']}, top_k {top_k_limit if top_k_limit else 'MISSING TOPK'}, {T[LANG]['threshold']} {round(min_ratio, 4)}",
+        title_y=0.975,
+        title_x=0.85,
         # title=f"Probabilité de sélection : « {key_token} » et « {value_token} », top_k {top_k_limit if top_k_limit else 'MISSING TOPK'}, seuil {round(min_ratio, 4)}",
         xaxis_title=f"{T[LANG]['tokens_generated']}",
         yaxis_title=f"{T[LANG]['probability']}",
-        font=dict(family="Arial", size=14, color="#7f7f7f"),
+        font=dict(family="Arial", size=13, color="#7f7f7f"),
         title_font_color="red" if top_k_limit is None else "#7f7f7f",
         paper_bgcolor="white",
         plot_bgcolor="white",
@@ -524,6 +535,9 @@ if __name__ == "__main__":
         "token2",
         type=str,
         help="Second token to analyze",
+    )
+    parser.add_argument(
+        "-m", "--models", default=["llama", "mistral", "qwen"], nargs="+"
     )
     parser.add_argument(
         "-l",
@@ -601,6 +615,7 @@ if __name__ == "__main__":
     list_dfs = []
 
     token_pairs = [{args.token1: args.token2}]
+    models = args.models
     level_plot = args.level
     task_plot = args.gen_type
     text_type_plot = args.text_type
@@ -610,6 +625,7 @@ if __name__ == "__main__":
         "mistral": "Mistral-7B-Instruct-v0.3",
         "qwen": "Qwen2.5-7B-Instruct",
     }
+    model_map = {k: v for k, v in model_map.items() if k in models}
 
     if level_plot == "all":
         level_plot = "*"
@@ -637,6 +653,7 @@ if __name__ == "__main__":
 
     plot_pair_probabilities(
         list_dfs,
+        models=args.models,
         min_ratio=args.min_ratio,
         top_k_limit=args.top_k_limit,
         save_to_file=args.save_svg,
@@ -644,6 +661,7 @@ if __name__ == "__main__":
 
     plot_surprisal_context(
         list_dfs,
+        models=args.models,
         min_ratio=args.min_ratio,
         surprisal_threshold=args.surprisal_threshold,
         save_to_file=args.save_svg,

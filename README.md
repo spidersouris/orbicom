@@ -2,7 +2,11 @@
 
 ## Generating with log probabilities
 
+```
 usage: generate.py [-h] -l {ce1,cm1} -t {literature,scientific} -g {continuation,generation} -m MODEL_ID [-k TOP_K] [-tk MAX_NEW_TOKENS]
+```
+
+---
 
 ```
 options:
@@ -22,7 +26,11 @@ options:
 
 ## Plotting
 
-usage: plot.py [-h] -l {ce1,cm1,all} -t {literature,scientific,all} -g {continuation,generation,all} [-r MIN_RATIO] [-k TOP_K_LIMIT] [-c CONTEXT_WINDOW] [-s SURPRISAL_THRESHOLD] [--lang {fr,en}] [-svg] [-html] token1 token2
+```
+usage: plot.py [-h] -m MODELS [MODELS ...] -l {ce1,cm1,all} -t {literature,scientific,all} -g {continuation,generation,all} [-r MIN_RATIO] [-k TOP_K_LIMIT] [-c CONTEXT_WINDOW] [-s SURPRISAL_THRESHOLD] [--lang {fr,en}] [-svg] [-html] token1 token2
+```
+
+---
 
 ```
 positional arguments:
@@ -30,6 +38,8 @@ positional arguments:
   token2                Second token to analyze
 
 options:
+  -m MODELS [MODELS ...], --models MODELS [MODELS ...]
+                        List of model identifiers to include in the plot (default: all models; can be "llama", "qwen", "mistrlal")
   -l {ce1,cm1,all}, --level {ce1,cm1,all}
                         Level of the corpus ('ce1' or 'cm1' or 'all' for both levels)
   -t {literature,scientific,all}, --text_type {literature,scientific,all}

@@ -1,6 +1,6 @@
 # orbicom
 
-Repository for the **Cohésion textuelle dans les textes générés par les SLM : expressions référentielles et genre** paper presented at the [Orbicom – ITI LiRiC CIAREI Congress](https://orbicom-2025.sciencesconf.org/?lang=en) (Communication, artificial intelligence, remediation, ethics and inclusion) held in Strasbourg, France from September 29th to October 1st, 2025.
+Repository for the **_Cohésion textuelle dans les textes générés par les SLM : expressions référentielles et genre_** paper presented at the [Orbicom – ITI LiRiC CIAREI Congress](https://orbicom-2025.sciencesconf.org/?lang=en) (Communication, artificial intelligence, remediation, ethics and inclusion) held in Strasbourg, France from September 29th to October 1st, 2025.
 
 ## Generating with log probabilities
 

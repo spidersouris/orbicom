@@ -1,6 +1,7 @@
+import json
 import os
 import re
-import json
+
 from sentence_splitter import split_text_into_sentences
 
 
@@ -13,7 +14,7 @@ def load_corpus(level, corpus_type, extract=False):
             f"corpus_type must be one of ['literature', 'scientific'], got {corpus_type}"
         )
 
-    corpus_path = f"content/{level}/texts/"
+    corpus_path = f"data/{level}/"
     corpus_data = {}
 
     pattern = r"^\d+_(\w+_)?lit" if corpus_type == "literature" else r"^\d+_(\w+_)?sci"
